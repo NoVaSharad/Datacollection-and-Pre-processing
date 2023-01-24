@@ -37,13 +37,15 @@ This method we used for large no. of dataset let we have 20000 line of data and 
 # 3.Label Encoding
  
 Breast Cnacer Data Labeling 
+
 In this we have two types of dependecies of daignosics
 B- Benign(early stage) it is converting as 0 because in alphabet B is frist 
 M- Malignan(last stage) it is converting as 1 because in alphabet M is second
 
 In the Label encoding we have some data in (variable LabelEncoder) we have converted as target variable and all are changes into 0 and 1
 
-Iris Data Labeling 
+Iris Data Labeling
+
 In this we have three types of dependecies of Species
 Iris-setosa- it is converting as 0 because in alphabet setosa is frist  
 Iris-versicolor- it is converting as 2 because in alphabet versicolor is second
