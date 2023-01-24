@@ -1,6 +1,6 @@
 # Datacollection-and-Pre-processing
 
-# Data Standardization
+# 1.Data Standardization
 What is standardization
 In statistics and machine learning, data standardization is a process of converting data to z-score values based on the mean and standard deviation of the data.
 
@@ -20,7 +20,7 @@ Let’s take a look at the z-score formula:
 
 
 
-# In the Handling of dataset
+# 2.In the Handling of dataset
 We have two types of method.
 1. Imputation
 2. Dropping
