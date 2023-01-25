@@ -64,4 +64,16 @@ In the Label encoding we have some data in (variable LabelEncoder) we have conve
 We have have some data of diabetic person so we analysis the data by traing and testing the data by import some Scikit learn libraries, We importing sklearn.preprocessing ,StandardScaler,Svm,And Most Important for learnig the data BY train_test_split.
 In this data we let some ext variable like X and Y or standardized this data. I also used data standardization process
 
-# 5.
+# 5.Handling Imbalanced Dataset
+  
+In this I basically import the numpy and pandas libraries and upload a credit_card_data this data having very large no. of deatails (9965, 31) in form of column and row in this data has no null values so we took a Class name of row in this Class row a data is data is giving in form of 0 and 1 here --
+
+0 -> Legit Transactions
+
+1 -> Froud Transactions
+
+but this is highly imbalanced only 38 froud transactons are in so i Building a sample dataset similar distribution of legit and froud tarnsanctions and also concat both legit and froud transactions 
+
+Axis = 0 Mean 
+
+It mean our legit up and froud on down of the legit transaction and another mean our data also shown in row form.
