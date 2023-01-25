@@ -58,3 +58,10 @@ Iris-virginica- it is converting as 3 because in alphabet virginica is third
 
 In the Label encoding we have some data in (variable LabelEncoder) we have converted as target variable and all are changes into 0, 1 and 2
 
+
+# 4.Train and Testing the data by sklearn
+
+We have have some data of diabetic person so we analysis the data by traing and testing the data by import some Scikit learn libraries, We importing sklearn.preprocessing ,StandardScaler,Svm,And Most Important for learnig the data BY train_test_split.
+In this data we let some ext variable like X and Y or standardized this data. I also used data standardization process
+
+# 5.
